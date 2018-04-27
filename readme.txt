@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 this is branch feature.
 hello this is bug branch.
+this is stash 01....02...03
